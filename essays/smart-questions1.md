@@ -34,5 +34,7 @@ This question received one answer, where the answer essentially just solved the 
 Learning to ask “smart” questions is an important skill to learn for any profession, but especially so for software engineers. Anytime we rely on others for help, it is best to make it as easy and convenient as possible for them to avoid wasting their time. While asking “smart” questions may not always lead to the answer you were hoping for, doing so will make a more positive experience for both you and those who try to help you. 
 
 Links to each example: 
+
 ["Smart" Question](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
+
 ["Not so Smart" Question](https://stackoverflow.com/questions/34472119/what-is-wrong-with-my-code-c-language)
