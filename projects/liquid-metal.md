@@ -8,7 +8,7 @@ published: true
 labels:
   - Qt Creator
   - Arduino
-summary: "My team developed a GUI and predefined paths designed for the movement a droplet of liquid metal in a 2D plane. I worked on this project for the class ENGR 296. "
+summary: "My team developed a GUI and predefined paths designed for the movement a droplet of liquid metal in a 2D plane. I worked on this project for the class ENGR 296 as part of the Liquid-Metal Electronics Vertically Integrated Projects team. "
 ---
 
 In recent years, the research into applications for liquid metal has greatly increased. Because of its reconfigurability and electrical properties, liquid metal may be a promising solution to the ever growing need for more powerful yet efficient electronic devices. This project largely focused on the movement of liquid metal inside a square pool filled with liquid. Electrodes placed on the perimeter of the pool would be used to control the liquid metal by applying different voltages across the pool. An example of how the electrodes would be set up is shown below, where each electrode is represented by a letter. 
