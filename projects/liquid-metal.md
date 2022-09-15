@@ -19,6 +19,8 @@ For this project I worked on making predefined patterns for specific movements o
 
 <img class="img-fluid" src="../img/liquid-metal/VoltageSliderGUI.PNG">
 
+From this project I learned how to write basic Arduino code as well as how to use QT Creator to make a basic GUI. Due to the COVID-19 pandemic, we were unable to enter the lab and therefore did not learn much about using Arduino hardware. I also improved on my ability to work in a team environment as well as my technical writing skills. 
+
 For more information, check out our VIP poster session video:
 
 [Link to VIP poster session video](https://manoa.hawaii.edu/uh-vip/poster-sessions/spring-2021-poster-session/#TOC-Liquid-Metal-Electronics-VIP)

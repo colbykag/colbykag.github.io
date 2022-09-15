@@ -17,6 +17,8 @@ For this presentation my partner and I described the CPU architecture of the ATm
 
 For the computer architecture section, I described the type of computer architecture that the ATmega328P is based on along with some of the features of the microcontroller. For the memory section, I explained how each memory space on the ATmega328P is organized. For the instruction set section, I briefly described the different categories of instructions that are used by the ATmega328P. The conclusion section covered closing remarks.
 
+From this project I learned more about the parts of a basic CPU architecture and how they function together. I also improved on my ability to communicate with others while working together as well as my presentation skills. 
+
 Sources for the images and information used in this presentation:
 1. Microchip, “8-bit AVR Microcontroller with 32K Bytes In-System Programmable Flash,“ ATmega328P datasheet, Jan. 2015.
 2. Microchip Technology Inc., AVR Instruction Set Manual, Microchip, 2021.
