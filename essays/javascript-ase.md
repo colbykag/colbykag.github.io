@@ -7,6 +7,8 @@ date: 2022-08-31
 published: true
 labels:
   - Software Engineering
+  - Javascript
+  - C
 ---
 
 For most computer engineering or computer science students, the start of a new semester is synonymous with the start of a new set of programming classes. For myself, one of those new classes is a class called software engineering. So far, this class has had two main differences between it and my previous classes: the use of Javascript instead of C and the implementation of athletic software engineering. The following paragraphs will briefly compare Javascript to C, cover my thoughts on Javascript as a software engineering language, and discuss my experiences with athletic software engineering.
