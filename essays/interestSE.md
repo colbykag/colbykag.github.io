@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img class="rounded float-start pe-4" src="../img/interestSE/interestCode.png">
+<img class="img-fluid" src="../img/interestSE/interestCode.png">
 
 Saying that our lives revolve around technology is a massive understatement to me. Technology and specifically software are seemingly intertwined in nearly every aspect of our daily lives. Many products across a multitude of industries are implementing software in an effort to become “smarter,” adding more bells and whistles in an attempt to make life more convenient. As the world continues to move in this “smarter” direction, understanding the software behind these technologies has become a highly desirable skill. It is such a desirable skill that many parents even have their young children learn to code. Learning about software engineering can lead to countless opportunities in many different fields, or even lead to the creation of new fields that do not yet exist. 
 
