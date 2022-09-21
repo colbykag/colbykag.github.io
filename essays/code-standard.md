@@ -11,6 +11,8 @@ labels:
   - Javascript
 ---
 
+<img class="img-fluid" src="../img/code-standards/CodingStandards.PNG">
+
 ## The Importance of Coding Standards
  
 In coding, there are often many different ways to arrive at the solution to a problem. Some would argue that it does not matter if the solution is “pretty” or not, as long as it gets the job done. Technically, this is true. The code will still produce the correct output if you have an unused variable, or if you have two blank lines after the final line of code instead of one. For this reason, many do not care much about coding standards, which are sets of rules and requirements that developers follow when writing code. However, there are many ways in which coding standards can be extremely useful to software engineers. Having coding standards can help improve the readability of code, making it easier for people to understand the code of their peers or coworkers. On the other hand, if people did not follow a set of coding standards, it may be very difficult for a person to understand code that was developed by a different person. If this were the case, maintenance and further development of the project would be challenging without the help of the person who wrote the original code. Additionally, having coding standards can help simplify the debugging process, as finding the lines or blocks of code that are causing errors will be much easier. To summarize, coding standards can be quite helpful to the development process, even if they are technically unnecessary. 
