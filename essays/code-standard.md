@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Coding the Standard way"
+title: "Coding Standards: Why you Should Consider Coding the like everybody else"
 # All dates must be YYYY-MM-DD format!
 date: 2022-09-20
 published: true
