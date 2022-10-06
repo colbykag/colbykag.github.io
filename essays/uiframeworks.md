@@ -12,6 +12,7 @@ labels:
 ---
 
 <img class="img-fluid" src="../img/uiframework/uiframework2.png">
+
 [Link to Image Source](https://semantic-ui.com/)
  
 When it comes to web development, user interface (UI) frameworks are some of the most common tools used to help with the development process. UI frameworks are packages of functions and classes designed to help with creating aesthetically pleasing and consistent UI layouts. While UI frameworks can provide many convenient features for web development, the complexity of UI frameworks can sometimes discourage people from using them. Some may question why anyone would bother to learn how to use a UI framework instead of just using HTML and CSS on their own. As someone who has only just started learning to use UI frameworks, it is hard for me to say whether or not they are worth the time investment, but perhaps my experiences can help others make that decision for their own project. 
