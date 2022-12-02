@@ -13,6 +13,8 @@ labels:
 
 <img class="img-fluid" src="../img/DesignPattern.png">
 
+[Link to Image Source](https://javascript.plainenglish.io/what-are-software-design-patterns-fe8a9f9ecabb)
+
 ## How to Solve Countless Problems at once
  
 With the rapid changes that our society undergoes continuously, the need to constantly learn new information is more important than ever. Coming up with ways to teach and learn new information efficiently is necessary to ensure that people can excel. One method of doing this is the use of design patterns. Design patterns are blueprints that can be used to describe problems that occur frequently, as well as describe the nature of the solution to this problem. Design patterns can be used to derive a solution for countless variations of the same problem. For example, imagine using a wheelbarrow, a wagon, and a dolly to move heavy or large objects. In this case, the wheelbarrow, wagon, and dolly would all be examples of specific solutions for their respective problems. They are not design patterns. In this example, the design pattern would be the use of a machine or device to move objects that you would have a difficult time moving on your own. In other words, a design pattern is not a specific solution to a specific problem, but rather an approach that can be used to come up with many solutions to variations of a generic problem. 
