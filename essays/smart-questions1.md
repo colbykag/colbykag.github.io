@@ -4,7 +4,7 @@ type: essay
 title: "An Answer is only as Smart as its Question"
 # All dates must be YYYY-MM-DD format!
 date: 2022-09-08
-published: true
+published: false
 labels:
   - Questions
   - Answers
