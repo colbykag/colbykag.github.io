@@ -1,0 +1,73 @@
+{
+  "basics": {
+    "name": "Colby Kagamida",
+    "label": "Student",
+    "picture": "https://github.com/colbykag.png",
+    "email": "colbykag@hawaii.edu",
+    "phone": "Available upon request",
+    "website": "https://colbykag.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering at the Department of Electrical and Computer Engineering at the University of Hawaii at Manoa. I expect to graduate in Spring 2023.",
+    "location": { "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "colbykag", "url": "http://github.com/colbykag" },
+      { "network": "linkedin", "username": "Colby Kagamida", "url": "https://www.linkedin.com/in/colby-kagamida-5359b7249/" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Website Design" },
+    { "name": "Data Analytics" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "Java", "Verilog", "SystemVerilog" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windows OS", "Linux", "Git/GitHub", "g++" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Engineering (expected Spring, 2023)",
+      "studyType": "B.S.",
+      "startDate": "2019-08-26",
+      "endDate": "Present",
+      "courses": ["ICS314: Software Engineering I"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Electrical and Computer Engineering Department at UH Manoa",
+      "position": "Electrical Engineering Grader",
+      "website": "",
+      "startDate": "2020-09-20",
+      "endDate": "2020-12-18",
+      "highlights": [
+        "Grade programming projects for the class EE160: Programming for Engineers"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Spring 2022 Dean's List",
+      "date": "2022",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Award given to students who earn a semester GPA of 3.5 or higher based on 12 credits or more. "
+    },
+    {
+      "title": "Fall 2020 Dean's List",
+      "date": "2020",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Award given to students who earn a semester GPA of 3.5 or higher based on 12 credits or more. "
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
